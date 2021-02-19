@@ -78,3 +78,9 @@ This dataset includes data about the sellers that fulfilled orders made at Olist
 Translates the product category name to english.
 This is a real commercial data published by Olist
 
+# Architecture of Data Schema
+
+
+# Data Collection
+
+Kaggle is the main source of data collection in this problem. This olist data set is available in kaggle in form 9 csv file. We have around a total of 9 files and 54 columns are present in the dataset. The size of the dataset is 120.3 MB. As we have a total 54 columns and after feature Engineering we can come up with a large feature that requires a considerable amount of computing Power. Training this data set in machine learning and deep learning requires good computation Power.
