@@ -80,6 +80,7 @@ This is a real commercial data published by Olist
 
 # Architecture - Flow Diagram
 
+
 # Flow Diagram - Explanation
 
 1. Data wrangling - The process of cleaning and unifying messy and complex data sets for easy access and analysis.
