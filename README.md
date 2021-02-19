@@ -78,9 +78,27 @@ This dataset includes data about the sellers that fulfilled orders made at Olist
 Translates the product category name to english.
 This is a real commercial data published by Olist
 
+# Architecture - Flow Diagram
+
+# Flow Diagram - Explanation
+
+1. Data wrangling - The process of cleaning and unifying messy and complex data sets for easy access and analysis.
+
+2. EDA - Exploratory Data Analysis (EDA) is an approach/philosophy for data analysis that employs a variety of techniques (mostly graphical) to.
+
+3. Modeling - The process of modeling means training a machine learning algorithm to predict the labels from the features, tuning it for the business need, and validating it on holdout data. The output from modeling is a trained model that can be used for inference, making predictions on new data points.
+
+4. Model Evaluation - After data splits into Train & Test and predicts the result.
+
+5. Dockerizing - An application is the process of converting an application to run within a Docker container.
+
+6. Deployment - Deployment of an ML/DL-models simply means the integration of the models into an existing production environment which can take in an input and return an output that can be used in making practical business decisions.
+
 # Architecture of Data Schema
 
 
-# Data Collection
+# Conclusion
 
-Kaggle is the main source of data collection in this problem. This olist data set is available in kaggle in form 9 csv file. We have around a total of 9 files and 54 columns are present in the dataset. The size of the dataset is 120.3 MB. As we have a total 54 columns and after feature Engineering we can come up with a large feature that requires a considerable amount of computing Power. Training this data set in machine learning and deep learning requires good computation Power.
+An automated Recommendation/Predictions system called the Market Basket Analysis recommendation/prediction system that will help the organization in making the decision to enhance their sales process and can optimize their business in a better form.
+
+
