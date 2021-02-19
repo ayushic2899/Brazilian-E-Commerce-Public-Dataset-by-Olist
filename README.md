@@ -78,8 +78,9 @@ This dataset includes data about the sellers that fulfilled orders made at Olist
 Translates the product category name to english.
 This is a real commercial data published by Olist
 
-# Architecture - Flow Diagram
+# Architecture of Data Schema
 
+![alt text](https://i.imgur.com/HRhd2Y0.png)
 
 # Flow Diagram - Explanation
 
@@ -95,8 +96,6 @@ This is a real commercial data published by Olist
 5. Dockerizing - An application is the process of converting an application to run within a Docker container.
 
 6. Deployment - Deployment of an ML/DL-models simply means the integration of the models into an existing production environment which can take in an input and return an output that can be used in making practical business decisions.
-
-# Architecture of Data Schema
 
 
 # Conclusion
