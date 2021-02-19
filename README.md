@@ -83,6 +83,7 @@ This is a real commercial data published by Olist
 
 # Flow Diagram - Explanation
 
+
 1. Data wrangling - The process of cleaning and unifying messy and complex data sets for easy access and analysis.
 
 2. EDA - Exploratory Data Analysis (EDA) is an approach/philosophy for data analysis that employs a variety of techniques (mostly graphical) to.
