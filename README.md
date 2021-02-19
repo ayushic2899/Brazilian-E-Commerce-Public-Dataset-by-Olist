@@ -82,8 +82,7 @@ This is a real commercial data published by Olist
 
 ![alt text](https://i.imgur.com/HRhd2Y0.png)
 
-# Flow Diagram - Explanation
-
+# Flow Explanation
 
 1. Data wrangling - The process of cleaning and unifying messy and complex data sets for easy access and analysis.
 
